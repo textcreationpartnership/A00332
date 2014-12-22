@@ -35,11 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A mery dialogue, declaringe the propertyes of shrowde shrewes, and honest wyues not onelie verie ple
+
 #####Body#####
-A mery dialogue, declaringe the propertyes of shrowde shrewes, and honest wyues not onelie verie ple
+EUlalia.God spede, & a thousand mine old acqueintāce. xantippa.xan.As many agayn, my dere hert.Eula
 #####Back#####
-A mery dialogue, declaringe the propertyes of shrowde shrewes, and honest wyues not onelie verie ple
+¶Imprynted at London in Paules churche yearde, at the sygne of the Sunne, by Antony Kytson.
 **Types of content**
 
   * There are 181 **drama** parts! This is **prose drama**.

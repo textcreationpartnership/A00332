@@ -35,11 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A mery Dialogue, declaringe the propertyes of shrowde shrewes, and honest wyues, not onelie verie pl
+A mery dialogue, declaringe the propertyes of shrowde shrewes, and honest wyues not onelie verie ple
 #####Body#####
-EUlalia.God spede, & a thousand mine old acqueintāce. xantippa.xan.As many agayn, my dere hert.Eula
+A mery dialogue, declaringe the propertyes of shrowde shrewes, and honest wyues not onelie verie ple
 #####Back#####
-¶Imprynted at London in Paules churche yearde, at the sygne of the Sunne, by Antony Kytson.
+A mery dialogue, declaringe the propertyes of shrowde shrewes, and honest wyues not onelie verie ple
 **Types of content**
 
   * There are 181 **drama** parts! This is **prose drama**.
@@ -73,32 +73,28 @@ There are 11 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|7||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|3||
-|32.|__textClass__|1||
-|33.|__title__|3||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|7||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|3||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
@@ -106,17 +102,14 @@ There are 11 **ommitted** fragments!
 |No|element name|occ|attributes|
 |---|---|---|---|
 |1.|__abbr__|1||
-|2.|__back__|1||
-|3.|__body__|1||
-|4.|__desc__|11||
-|5.|__div__|3| @__type__ (3) : title_page (1), dialogue (1), colophon (1)|
-|6.|__front__|1||
-|7.|__g__|344| @__ref__ (344) : char:EOLhyphen (107), char:EOLunhyphen (79), char:cmbAbbrStroke (158)|
-|8.|__gap__|11| @__reason__ (11) : illegible (8), duplicate (2), illegible: missing (1)  •  @__extent__ (11) : 1 letter (9), 1 page (2)|
-|9.|__hi__|21| @__rend__ (21) : sup (21)|
-|10.|__p__|185||
-|11.|__pb__|42| @__facs__ (42) : tcp:16001:1 (2), tcp:16001:2 (2), tcp:16001:3 (2), tcp:16001:4 (2), tcp:16001:5 (2), tcp:16001:6 (2), tcp:16001:7 (2), tcp:16001:8 (2), tcp:16001:9 (2), tcp:16001:10 (2), tcp:16001:11 (2), tcp:16001:12 (2), tcp:16001:13 (2), tcp:16001:14 (2), tcp:16001:15 (2), tcp:16001:16 (2), tcp:16001:17 (2), tcp:16001:18 (2), tcp:16001:19 (2), tcp:16001:20 (2), tcp:16001:21 (2)  •  @__rendition__ (2) : simple:additions (2)|
-|12.|__seg__|1| @__rend__ (1) : decorInit (1)|
-|13.|__sp__|181||
-|14.|__speaker__|181||
-|15.|__trailer__|1||
+|2.|__desc__|11||
+|3.|__div__|3| @__type__ (3) : title_page (1), dialogue (1), colophon (1)|
+|4.|__g__|344| @__ref__ (344) : char:EOLhyphen (107), char:EOLunhyphen (79), char:cmbAbbrStroke (158)|
+|5.|__gap__|11| @__reason__ (11) : illegible (8), duplicate (2), illegible: missing (1)  •  @__extent__ (11) : 1 letter (9), 1 page (2)|
+|6.|__hi__|21| @__rend__ (21) : sup (21)|
+|7.|__p__|185||
+|8.|__pb__|42| @__facs__ (42) : tcp:16001:1 (2), tcp:16001:2 (2), tcp:16001:3 (2), tcp:16001:4 (2), tcp:16001:5 (2), tcp:16001:6 (2), tcp:16001:7 (2), tcp:16001:8 (2), tcp:16001:9 (2), tcp:16001:10 (2), tcp:16001:11 (2), tcp:16001:12 (2), tcp:16001:13 (2), tcp:16001:14 (2), tcp:16001:15 (2), tcp:16001:16 (2), tcp:16001:17 (2), tcp:16001:18 (2), tcp:16001:19 (2), tcp:16001:20 (2), tcp:16001:21 (2)  •  @__rendition__ (2) : simple:additions (2)|
+|9.|__seg__|1| @__rend__ (1) : decorInit (1)|
+|10.|__sp__|181||
+|11.|__speaker__|181||
+|12.|__trailer__|1||
